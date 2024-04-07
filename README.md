@@ -52,7 +52,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/imran95patel/imran95patel/output/snake.svg" alt="Snake animation" />
-
-###
