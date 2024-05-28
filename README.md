@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Imran and I'm a Frontend Developer from Pune Maharashtra</p>
+<p align="left">My name is Imran and I'm a Frontend & Backend Developer from Pune Maharashtra</p>
 
 ###
 
